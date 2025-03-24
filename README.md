@@ -130,7 +130,7 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning**, **AI**,
 ---
 
 <p align="center">
-  ⭐️ *Feel free to fork and star my repositories!*
+  ⭐️ Feel free to fork and star my repositories!
 </p>
 
 ---
