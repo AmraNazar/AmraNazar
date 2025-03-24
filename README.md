@@ -55,17 +55,13 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning**, **AI**,
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
-  </a>
+ 
 
   <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
   </a>
-  <a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular"/>
-  </a>
+  
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
   </a>
