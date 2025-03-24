@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with your full name, Amra Nazar:
-
----
-
 # Hi there, I'm Amra Nazar! 👋
 
 <p align="center">
